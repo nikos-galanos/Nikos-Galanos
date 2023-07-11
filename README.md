@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**nikos-galanos/Nikos-Galanos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a current graduate student studying data science at MIT (graduating in August 2023).
 
-Here are some ideas to get you started:
+I come from a Management Information Systems background from Athens University of Economics and Business, with 3 years of work experience in Telecommunications and Consulting. My experience is always withing the intersection of business and technology, so I am interested in applications of data analysis, machine learning and AI that help improve business outcomes!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Some of the projects I have worked on include:
+- Predicting the outcome of a bank's marketing campaign (Python / Julia, partner Ahmad Hussain) [link]
+- Decoding Tweets to prredict the outcome of US Midterm Elections 2022 (Python, partner Arushi Jain / Anant Vashistha) [link]
+- Exploring employee turnover using HR Analytics (SQL, PowerBI) [link]
+
+Feel free to check out my portfolio!
+
+If you'd like to reach me:
+nikos.galanos@gmail.com / nikosgal@mit.edu
+https://www.linkedin.com/in/nikos-galanos/
