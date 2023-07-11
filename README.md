@@ -12,6 +12,7 @@ Some of the projects I have worked on include:
 Feel free to check out my portfolio!
 
 If you'd like to reach me:
+
 nikos.galanos@gmail.com / nikosgal@mit.edu
 
 https://www.linkedin.com/in/nikos-galanos/
