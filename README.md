@@ -5,9 +5,9 @@ I'm a current graduate student studying data science at MIT (graduating in Augus
 I come from a Management Information Systems background from Athens University of Economics and Business, with 3 years of work experience in Telecommunications and Consulting. My experience is always withing the intersection of business and technology, so I am interested in applications of data analysis, machine learning and AI that help improve business outcomes!
 
 Some of the projects I have worked on include:
-- Predicting the outcome of a bank's marketing campaign (Python / Julia, partner Ahmad Hussain) [link]
-- Decoding Tweets to predict the outcome of US Midterm Elections 2022 (Python, partner Arushi Jain / Anant Vashistha) [link]
-- Exploring employee turnover using HR Analytics (SQL, PowerBI) [link]
+- Predicting the outcome of a bank's marketing campaign (Python / Julia, partner Ahmad Hussain) 
+- Decoding Tweets to predict the outcome of US Midterm Elections 2022 (Python, partner Arushi Jain / Anant Vashistha)
+- Exploring employee turnover using HR Analytics (SQL, Tableau)
 
 Feel free to check out my portfolio!
 
