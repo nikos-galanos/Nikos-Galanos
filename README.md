@@ -7,7 +7,7 @@ I come from a Management Information Systems background from Athens University o
 Some of the projects I have worked on include:
 - Predicting the outcome of a bank's marketing campaign (Python / Julia, partner Ahmad Hussain) 
 - Decoding Tweets to predict the outcome of US Midterm Elections 2022 (Python, partner Arushi Jain / Anant Vashistha)
-- Exploring employee turnover using HR Analytics (SQL, Tableau)
+- Exploring employee attrition using HR Analytics (SQL, Tableau)
 
 Feel free to check out my portfolio!
 
