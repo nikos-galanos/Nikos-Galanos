@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a current graduate student studying data science at MIT (graduating in August 2023).
+I'm a current graduate student studying data science (Master of Business Analytics) at MIT (graduating in August 2023).
 
 I come from a Management Information Systems background from Athens University of Economics and Business, with 3 years of work experience in Telecommunications and Consulting. My experience is always withing the intersection of business and technology, so I am interested in applications of data analysis, machine learning and AI that help improve business outcomes!
 
