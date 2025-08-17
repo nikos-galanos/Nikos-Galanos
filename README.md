@@ -41,6 +41,6 @@ Tech: Python, NLP, Classification Models
 
 📫 Get In Touch
 
-LinkedIn: linkedin.com/in/nikos-galanos
+LinkedIn: [linkedin.com/in/nikos-galanos](https://www.linkedin.com/in/nikos-galanos/)
 
 Email: nikos.galanos@gmail.com / nikos.galanos@alum.mit.edu
