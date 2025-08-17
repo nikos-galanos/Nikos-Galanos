@@ -40,6 +40,6 @@ An NLP project that leveraged social media data to forecast the 2022 US Midterm 
 Tech: Python, NLP, Classification Models
 
 📫 Get In Touch
-LinkedIn: linkedin.com/in/nikos-galanos
 
+LinkedIn: linkedin.com/in/nikos-galanos
 Email: nikos.galanos@gmail.com / nikos.galanos@alum.mit.edu
