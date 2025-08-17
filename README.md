@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Hi there 👋
-
 I'm a Data Scientist specializing in building and deploying production-level Generative AI solutions to solve complex customer experience challenges. My work focuses on translating vast amounts of unstructured data into actionable, strategic insights for business leaders.
 
 I'm driven by the entire project lifecycle - from architecting a novel AI system to rigorously measuring its impact through experimentation.
