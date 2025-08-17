@@ -1,23 +1,47 @@
 ### Hi there 👋
 
-I currently work as a Data Scientist for a major telecommunications company. 
+Hi there 👋
 
-Two years ago I graduated from the Master of Business Analytics at MIT (Class of '23) where I studied extensively courses related to Machine Learning, Optimization and Analytics.
+I'm a Data Scientist specializing in building and deploying production-level Generative AI solutions to solve complex customer experience challenges. My work focuses on translating vast amounts of unstructured data into actionable, strategic insights for business leaders.
 
-Prior to moving to the United States I worked for ~3.5 years in Telecommunications and Consulting. My experience has always been within the intersection of business and technology, so I am interested in applications of data science, machine learning and AI that help improve business outcomes!
+I'm driven by the entire project lifecycle - from architecting a novel AI system to rigorously measuring its impact through experimentation.
 
-Some of the projects I have worked on outside of my job include:
+🚀 What I'm Currently Focused On
+🤖 Architecting and deploying production-level Generative AI and LLM pipelines for a Fortune 50 enterprise.
 
-- Predicting Customer Churn Outcome for a telecommunications company using Supervised Machine Learning Models
-- Predicting the outcome of a bank's marketing campaign (Python / Julia, partner Ahmad Hussain) 
-- Decoding Tweets to predict the outcome of US Midterm Elections 2022 (Python, partner Arushi Jain / Anant Vashistha)
-- Wordle Tweets Analytics (Python)
-- Exploring employee attrition using HR Analytics (SQL, Tableau)
+🔍 Developing Retrieval Augmented Generation (RAG) systems to unlock insights from millions of customer interactions.
 
-Feel free to check out my portfolio!
+🧪 Designing and analyzing large-scale A/B tests and controlled experiments to drive product strategy and measure impact.
 
-If you'd like to reach me:
+📊 Building tools and reports that deliver key "Voice of the Customer" insights directly to C-level leadership.
 
-nikos.galanos@gmail.com / nikos.galanos@alum.mit.edu
+💻 My Tech Stack
+- AI and Machine Learning : LangChain, Llama, OpenAI API, Prompt Engineering, PySpark, Python, R, SQL, A/B Testing 
+- Platforms and Tools : Databricks, Snowflake, Adobe Analytics, Salesforce, Pega
 
-https://www.linkedin.com/in/nikos-galanos/
+📌 Featured Projects
+Below are a few of my projects. Please feel free to explore my repositories for more.
+
+1. Predictive Modeling for Investment Management (MIT Capstone)
+
+Developed gradient boosting and survival analysis models to predict fund redemptions and financial advisor churn.
+
+Impact: Achieved a 48% R² improvement and a 55% C-Index lift over baselines, providing early visibility into liquidity demands and retention risks.
+Tech: Python, Pandas, Survival Analysis, Gradient Boosting
+
+2. Customer Churn Prediction
+
+An end-to-end project focused on predicting customer churn for a telecommunications provider using supervised machine learning.
+
+Tech: Python, Scikit-learn, XGBoost, Matplotlib
+
+3. Decoding Tweets to Predict Election Outcomes
+
+An NLP project that leveraged social media data to forecast the 2022 US Midterm Elections.
+
+Tech: Python, NLP, Classification Models
+
+📫 Get In Touch
+LinkedIn: linkedin.com/in/nikos-galanos
+
+Email: nikos.galanos@gmail.com / nikos.galanos@alum.mit.edu
